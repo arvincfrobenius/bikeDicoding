@@ -6,7 +6,7 @@ import numpy as np
 
 
 # Load the data
-dataDay_df = pd.read_csv('main_data.csv')
+dataDay_df = pd.read_csv('dashboard/main_data.csv')
 
 # Judul aplikasi Streamlit
 st.title('Dashboard Penggunaan Sepeda')
